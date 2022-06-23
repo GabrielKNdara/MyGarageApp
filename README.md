@@ -2,8 +2,8 @@
 How to install 
   1. Clone MyGarageApp
   2. Go to Tools , then go to Nuget Package Manager and click on Package Manager Console
-  3. Under Package Manager Console type AddMigration initialcommit and inter
-  4. After the first command have been  run, type update database ....
+  3. Under Package Manager Console type Add-Migration initialcommit and inter
+  4. After the first command have been  run, type update-database ....
   5. the app is ready , press run
   6. Enyoy...!
   
